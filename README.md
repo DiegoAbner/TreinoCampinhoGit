@@ -1,6 +1,5 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2639
-\cocoatextscaling0\cocoaplatform0{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-}
+### Meus primeiros passos no uso do GIT
+
+## Esse é um teste para que eu consiga treinar os comandos 
+
+Logo mais, esse arquivo será atualizado como documentação no projeto da Campinho
